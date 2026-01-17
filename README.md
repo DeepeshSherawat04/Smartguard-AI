@@ -115,7 +115,7 @@ SMARTGUARD-AI/
 
 ⚙️ Setup & Installation
 1️⃣ Clone the Repository
-git clone <your-repo-url>
+git clone https://github.com/DeepeshSherawat04/Smartguard-AI.git
 cd SMARTGUARD-AI
 
 2️⃣ Create Virtual Environment

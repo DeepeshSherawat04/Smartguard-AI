@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+scikit-learn
+pandas
+numpy
+joblib
+requests
+python-multipart
+
+# OCR
+easyocr
+pillow
+opencv-python
+
+# NLP
+transformers
+torch
